@@ -1,2 +1,2 @@
 # teacher_assistante
-hello word
+This project corrects and summarizes tests using an interface built with Gradio
